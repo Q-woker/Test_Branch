@@ -13,5 +13,9 @@
 </script>
 
 <style>
+.box{
+	width:100px;
+	height:100px;
+}
 	/*每个页面公共css */
 </style>
